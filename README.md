@@ -9,8 +9,10 @@ import pandas as pd
 from collections import Counter
 import emoji
 
-to run:
-command--> streamlit run app.js
+Export chat from whatsapp without media.
+
+step 1 : pip install requirement.txt
+step 2 : streamlit run app.js
 
 
 
